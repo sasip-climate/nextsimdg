@@ -1,0 +1,5 @@
+<map id="Nextsim::TimePoint::format" name="Nextsim::TimePoint::format">
+<area shape="rect" id="Node000001" title="Return the formatted string representation of this TimePoint." alt="" coords="5,5,140,46"/>
+<area shape="rect" id="Node000002" href="$class_nextsim_1_1_time_point.html#af5f383aa1035b8d301d61c27b8967d49" title="Print this TimePoint as a formatted date to an ostream." alt="" coords="188,5,322,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,23,172,23,172,28,140,28"/>
+</map>

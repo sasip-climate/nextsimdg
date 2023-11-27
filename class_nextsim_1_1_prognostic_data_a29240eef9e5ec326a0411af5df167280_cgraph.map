@@ -1,0 +1,17 @@
+<map id="Nextsim::PrognosticData::update" name="Nextsim::PrognosticData::update">
+<area shape="rect" id="Node000001" title="Updates the state of the prognostic data for this timestep." alt="" coords="5,87,170,127"/>
+<area shape="rect" id="Node000002" href="$class_nextsim_1_1_model_array_ref.html#a69550d09eee3fac01154a000b78afe40" title="Direct access top the underlying data array." alt="" coords="218,53,378,94"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,91,202,86,203,91,171,97"/>
+<area shape="rect" id="Node000003" href="$class_nextsim_1_1_model_array.html#a9938424dba42a72b520a14f5ee16c2bd" title="Sets the value of every element in the object to the provided value." alt="" coords="228,119,368,159"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,117,213,123,212,129,170,122"/>
+<area shape="rect" id="Node000004" href="$class_nextsim_1_1_model_array.html#aa285badb50b17130ee59a88e3b55b432" title="Conditionally updates the size of the object data buffer to match the class specification." alt="" coords="426,119,566,159"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="368,136,411,136,411,142,368,142"/>
+<area shape="rect" id="Node000005" href="$class_nextsim_1_1_model_array.html#a2a68a42462efa606a6c5478c7385d542" title="Returns whether this type of ModelArray has additional discontinuous Galerkin components." alt="" coords="614,29,755,70"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="540,116,625,75,627,80,542,120"/>
+<area shape="rect" id="Node000006" href="$class_nextsim_1_1_model_array.html#adf6af3c14b1fee8f3e47d38422d9b66d" title="Returns the total number of elements of this type of ModelArray." alt="" coords="614,119,755,159"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="567,136,599,136,599,142,567,142"/>
+<area shape="rect" id="Node000007" href="$class_nextsim_1_1_model_array.html#a1b240e807761e93d149cf78d03df1832" title="Returns the size of the data array of this object." alt="" coords="614,184,755,225"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="558,157,610,176,609,181,556,162"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="649,29,647,19,653,10,665,5,685,3,705,5,717,11,715,16,704,10,684,8,667,10,656,15,652,20,654,28"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="649,119,647,109,653,100,665,94,685,92,705,94,717,101,715,105,704,100,684,97,667,99,656,104,652,110,654,117"/>
+</map>

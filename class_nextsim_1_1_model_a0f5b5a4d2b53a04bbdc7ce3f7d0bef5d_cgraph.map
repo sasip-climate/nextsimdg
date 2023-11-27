@@ -1,0 +1,44 @@
+<map id="Nextsim::Model::configure" name="Nextsim::Model::configure">
+<area shape="rect" id="Node000001" title="The configuration function." alt="" coords="5,293,174,319"/>
+<area shape="rect" id="Node000002" href="$class_nextsim_1_1_logged.html#a4eaf6db964c2ee5e53bf37342fa2de28" title="Static function that configures the logger." alt="" coords="235,5,412,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,292,104,246,129,180,167,110,191,77,220,48,239,35,242,40,223,52,195,80,171,113,134,183,109,248,96,293"/>
+<area shape="rect" id="Node000003" href="$class_nextsim_1_1_configured.html#a30f4e8e7a6c2d45faae282d43c3dd357" title="Returns the current configuration of the object." alt="" coords="495,11,631,52"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="92,292,107,252,132,197,170,140,193,114,220,92,266,73,332,57,478,36,479,42,333,62,268,78,223,96,197,118,174,143,137,200,112,254,97,294"/>
+<area shape="rect" id="Node000004" href="$class_nextsim_1_1_prognostic_data.html#ac86335c408d04ad2cfb8e4b5362d0d58" title="The configuration function." alt="" coords="241,106,406,147"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="97,291,144,227,179,189,220,156,228,151,231,156,223,160,183,193,148,230,101,295"/>
+<area shape="rect" id="Node000007" href="$class_nextsim_1_1_dev_step.html#affa3a69f395c91cfaa7964e6f0fa8b99" title="Initializes the model, based on some environment stored in the implementing class." alt="" coords="249,171,398,196"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="103,291,153,249,185,226,221,206,238,199,240,204,223,211,188,231,156,253,107,295"/>
+<area shape="rect" id="Node000009" href="$class_nextsim_1_1_iterator.html#a1aa9ac314b75701eb9d9ff82807fdaa3" title="Parses the four strings and sets the time parameters from them." alt="" coords="262,221,385,261"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="137,290,246,259,248,265,139,295"/>
+<area shape="rect" id="Node000010" href="$class_nextsim_1_1_prognostic_data.html#a3fc673978166cf793b56a58f67bf5751" title="Set the initial data of the component from the passed ModelState." alt="" coords="241,286,406,327"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="174,304,226,304,226,309,174,309"/>
+<area shape="rect" id="Node000011" href="$class_nextsim_1_1_dev_step.html#a2c517c0b82ede21e86a7eb6b3cd244c5" title="Sets the data object that will be used within the timesteps." alt="" coords="235,351,412,376"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="146,317,254,344,252,349,144,322"/>
+<area shape="rect" id="Node000012" href="$class_nextsim_1_1_i_model_step.html#a372eef1423d13713015069b8f621e5ca" title="Sets the path to the initial file for later reference." alt="" coords="253,401,394,441"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="110,317,160,351,223,386,239,393,237,398,220,391,157,356,107,322"/>
+<area shape="rect" id="Node000013" href="$class_nextsim_1_1_dev_step.html#a10037a7e8a496c563a3bbc33d66b1060" title="Sets the metadata object that will be used within the timesteps." alt="" coords="222,465,425,491"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="101,318,147,382,182,419,223,451,235,457,232,461,220,455,179,423,143,386,97,321"/>
+<area shape="rect" id="Node000014" href="$class_nextsim_1_1_model_metadata.html#ac5f5b93695819aaa3762dbfaef3b01ab" title="Sets the initial or current model time." alt="" coords="241,515,406,556"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="98,318,114,355,141,404,177,456,199,480,223,501,229,506,226,510,220,506,195,484,173,460,136,407,110,357,93,321"/>
+<area shape="rect" id="Node000016" href="$class_nextsim_1_1_structure_factory.html#adf5c8a3accf58e87f97ef81b5b6f1388" title="Returns the ModelState of the named restart file." alt="" coords="238,613,409,653"/>
+<area shape="poly" id="edge18_Node000001_Node000016" title=" " alt="" coords="97,319,112,363,138,428,176,499,198,534,224,566,245,585,268,602,265,606,241,589,220,569,194,537,171,502,134,430,107,365,92,320"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="412,20,479,24,478,29,412,26"/>
+<area shape="rect" id="Node000005" href="$_configured_8hpp.html#addce5f96c514296ee85b739bbe10fa26" title="Template function for conditionally configuring references." alt="" coords="491,113,634,139"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="406,124,475,124,475,129,406,129"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="528,115,522,105,526,95,540,89,563,87,588,89,601,96,598,101,586,94,563,92,541,94,529,99,527,104,533,111"/>
+<area shape="rect" id="Node000006" href="$class_nextsim_1_1_configured.html#a1976b952b6533bfd8624147f847ac042" title="Template function for conditionally configuring references." alt="" coords="700,106,837,147"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="634,124,685,124,685,129,634,129"/>
+<area shape="poly" id="edge10_Node000007_Node000005" title=" " alt="" coords="380,167,490,141,492,146,381,173"/>
+<area shape="rect" id="Node000008" href="$class_nextsim_1_1_i_diagnostic_output.html#a85f828dfff6ad927647875e7c59dfea5" title="Sets the output file name." alt="" coords="473,163,652,204"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="398,181,457,181,457,186,398,186"/>
+<area shape="rect" id="Node000015" href="$class_nextsim_1_1_model_metadata.html#a7cfa791d7cb1bf890e5960fc8767935b" title="Returns the current model time." alt="" coords="481,482,645,523"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="406,521,465,513,466,518,406,527"/>
+<area shape="rect" id="Node000017" href="$class_nextsim_1_1_parametric_grid.html#a3b6a3745c0955515de7c03d64db2ad67" title="Dumps the data to a file path." alt="" coords="482,547,644,588"/>
+<area shape="poly" id="edge19_Node000016_Node000017" title=" " alt="" coords="399,609,470,590,472,595,401,615"/>
+<area shape="rect" id="Node000018" href="$class_nextsim_1_1_rectangular_grid.html#a21d59e48414ee7c2f08dc75c2f92ecec" title="Dumps the data to a file path." alt="" coords="479,613,647,653"/>
+<area shape="poly" id="edge20_Node000016_Node000018" title=" " alt="" coords="409,630,463,630,463,636,409,636"/>
+<area shape="rect" id="Node000019" href="$class_nextsim_1_1_parametric_grid.html#a63c40d1cb54a2b9b6d801bc81d283566" title=" " alt="" coords="482,678,644,719"/>
+<area shape="poly" id="edge21_Node000016_Node000019" title=" " alt="" coords="401,651,472,671,470,676,399,656"/>
+<area shape="rect" id="Node000020" href="$class_nextsim_1_1_rectangular_grid.html#a820bb018dd0b73f5868489ccbfbe22e6" title="Sets the pointer to the class that will perform the IO. Should be an instance of IRectGridIO." alt="" coords="479,743,647,784"/>
+<area shape="poly" id="edge22_Node000016_Node000020" title=" " alt="" coords="354,652,408,689,474,728,488,734,485,739,472,733,406,694,351,656"/>
+</map>

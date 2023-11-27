@@ -1,0 +1,27 @@
+<map id="Nextsim::ModelComponent" name="Nextsim::ModelComponent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="765,5,933,491"/>
+<area shape="rect" id="Node000002" href="$class_nextsim_1_1_i_diagnostic_output.html" title=" " alt="" coords="159,679,329,824"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="753,288,660,329,554,386,447,456,397,497,351,540,325,573,303,609,270,680,265,678,298,606,321,570,347,537,393,493,444,452,551,381,657,325,750,283"/>
+<area shape="rect" id="Node000005" href="$class_nextsim_1_1_i_dynamics.html" title=" " alt="" coords="361,579,489,924"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="755,311,692,356,626,410,561,472,505,540,481,580,477,577,500,537,557,468,622,406,689,351,752,307"/>
+<area shape="rect" id="Node000008" href="$class_nextsim_1_1_module1.html" title=" " alt="" coords="514,649,630,854"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="759,364,699,448,645,540,621,594,602,650,596,648,616,592,640,537,695,445,754,361"/>
+<area shape="rect" id="Node000009" href="$class_nextsim_1_1_module_request_and_supply.html" title=" " alt="" coords="655,651,839,851"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="799,506,769,652,764,651,794,505"/>
+<area shape="rect" id="Node000010" href="$class_nextsim_1_1_module_semi_shared.html" title=" " alt="" coords="863,659,1043,844"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="905,505,937,658,932,660,900,506"/>
+<area shape="rect" id="Node000011" href="$class_nextsim_1_1_module_shared.html" title=" " alt="" coords="1068,639,1217,864"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="945,365,1003,448,1058,537,1105,638,1100,640,1054,540,999,451,940,368"/>
+<area shape="rect" id="Node000012" href="$class_nextsim_1_1_module_supply_and_wait.html" title=" " alt="" coords="1241,659,1439,844"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="948,304,1015,349,1090,404,1164,467,1231,537,1273,596,1305,658,1301,660,1268,599,1227,540,1161,471,1087,408,1012,353,945,308"/>
+<area shape="rect" id="Node000013" href="$class_nextsim_1_1_prognostic_data.html" title=" " alt="" coords="1463,539,1619,964"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="948,271,1062,307,1196,362,1265,397,1332,438,1396,484,1453,537,1465,551,1461,555,1449,541,1392,489,1329,442,1263,402,1194,367,1061,312,947,276"/>
+<area shape="rect" id="Node000003" href="$class_nextsim_1_1_config_output.html" title=" " alt="" coords="5,1012,147,1297"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="211,839,138,1013,133,1011,206,837"/>
+<area shape="rect" id="Node000004" href="$class_nextsim_1_1_simple_output.html" title=" " alt="" coords="171,1072,317,1237"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="247,839,247,1072,241,1072,241,839"/>
+<area shape="rect" id="Node000006" href="$class_nextsim_1_1_dummy_dynamics.html" title=" " alt="" coords="341,1092,509,1217"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="428,939,428,1092,423,1092,423,939"/>
+<area shape="rect" id="Node000007" href="$class_nextsim_1_1_dynamics.html" title=" " alt="" coords="534,1092,658,1217"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="494,937,505,963,566,1091,561,1093,500,965,489,939"/>
+</map>

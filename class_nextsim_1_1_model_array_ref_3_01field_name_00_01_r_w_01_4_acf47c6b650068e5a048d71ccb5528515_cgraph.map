@@ -1,0 +1,12 @@
+<map id="Nextsim::ModelArrayRef&lt; fieldName, RW &gt;::zIndexAndLayer" name="Nextsim::ModelArrayRef&lt; fieldName, RW &gt;::zIndexAndLayer">
+<area shape="rect" id="Node000001" title="Special access function for ZFields." alt="" coords="5,39,233,79"/>
+<area shape="rect" id="Node000002" href="$class_nextsim_1_1_model_array.html#a3c12dc81eda239218e83edfd5d36fdbb" title="Special access function for ZFields." alt="" coords="281,39,421,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,56,265,56,265,62,233,62"/>
+<area shape="rect" id="Node000003" href="$class_nextsim_1_1_model_array.html#a00dcaca57d99ef9bbedd210a82fa4731" title="Returns the data at the specified one dimensional index." alt="" coords="469,5,609,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="421,44,453,38,454,43,422,49"/>
+<area shape="rect" id="Node000004" href="$class_nextsim_1_1_model_array.html#ac32b5069c62eb1d4f789498d0b150b98" title="Special access function for ZFields, common implementation version." alt="" coords="469,71,609,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="422,68,454,74,453,79,421,74"/>
+<area shape="rect" id="Node000005" href="$class_nextsim_1_1_model_array.html#a430ca0d2166e14f65a8ca7c577df4fb1" title="Returns a vector&lt;size_t&gt; of the size of each dimension of this type of ModelArray." alt="" coords="657,71,798,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="610,88,642,88,642,94,610,94"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="692,71,690,61,696,52,708,46,728,44,748,46,760,53,758,57,747,52,727,49,710,51,699,56,695,62,697,69"/>
+</map>

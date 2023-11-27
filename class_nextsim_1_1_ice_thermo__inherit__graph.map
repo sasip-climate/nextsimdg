@@ -1,0 +1,6 @@
+<map id="Nextsim::IceThermo" name="Nextsim::IceThermo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="37,299,166,424"/>
+<area shape="rect" id="Node000002" href="$class_nextsim_1_1_mini_model_component.html" title=" " alt="" coords="5,5,197,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,266,96,299,91,299,90,266"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="113,266,112,299,107,299,108,266"/>
+</map>

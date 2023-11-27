@@ -1,0 +1,5 @@
+<map id="Nextsim::PrognosticData::getState" name="Nextsim::PrognosticData::getState">
+<area shape="rect" id="Node000001" title="Returns a ModelState from this component." alt="" coords="5,5,170,46"/>
+<area shape="rect" id="Node000002" href="$class_nextsim_1_1_model_array_ref.html#a69550d09eee3fac01154a000b78afe40" title="Direct access top the underlying data array." alt="" coords="218,5,378,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,23,202,23,202,28,170,28"/>
+</map>

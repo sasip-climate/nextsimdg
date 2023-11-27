@@ -1,0 +1,23 @@
+<map id="Nextsim::SimpleOutput::outputState" name="Nextsim::SimpleOutput::outputState">
+<area shape="rect" id="Node000001" title="Outputs the passed ModelState." alt="" coords="5,231,160,271"/>
+<area shape="rect" id="Node000002" href="$class_nextsim_1_1_structure_factory.html#a1e37fe9f67053f490439109634e98a86" title="Takes a ModelState and a template file name to write the state out to a target file path." alt="" coords="210,136,382,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,228,207,187,222,181,224,185,209,192,125,233"/>
+<area shape="rect" id="Node000008" href="$class_nextsim_1_1_model_component.html#a68e6cc694c128cdcb9fc65912a2707c3" title="Returns the ModelArrayRef backing store." alt="" coords="208,201,384,242"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="160,238,192,233,192,239,160,243"/>
+<area shape="rect" id="Node000009" href="$class_nextsim_1_1_logged.html#ae4f864a23a8eb5bbe9c744e3c73bd283" title="Logs a message at level::INFO, intended for informational messages that would not normally be shown." alt="" coords="223,266,369,292"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="160,258,208,265,207,270,160,264"/>
+<area shape="rect" id="Node000011" href="$class_nextsim_1_1_model_metadata.html#a7cfa791d7cb1bf890e5960fc8767935b" title="Returns the current model time." alt="" coords="214,316,378,357"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="132,269,209,302,223,308,221,313,207,307,130,274"/>
+<area shape="rect" id="Node000003" href="$class_nextsim_1_1_parametric_grid.html#a2512f8736d6e514501ced0df51b600d7" title="Dumps the data to a file path." alt="" coords="435,5,597,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="321,133,370,95,431,57,442,51,445,55,433,61,373,100,324,137"/>
+<area shape="rect" id="Node000004" href="$class_nextsim_1_1_rectangular_grid.html#acc240554f42b2dc7db00514182168548" title="Dumps the data to a file path." alt="" coords="432,71,600,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="366,133,430,114,431,119,367,138"/>
+<area shape="rect" id="Node000006" href="$class_nextsim_1_1_parametric_grid.html#a63c40d1cb54a2b9b6d801bc81d283566" title=" " alt="" coords="435,136,597,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="382,154,419,154,419,159,382,159"/>
+<area shape="rect" id="Node000007" href="$class_nextsim_1_1_rectangular_grid.html#a820bb018dd0b73f5868489ccbfbe22e6" title="Sets the pointer to the class that will perform the IO. Should be an instance of IRectGridIO." alt="" coords="432,201,600,242"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="367,175,431,194,430,199,366,180"/>
+<area shape="rect" id="Node000005" href="$class_nextsim_1_1_rectangular_grid_1_1_i_rect_grid_i_o.html#a372fab6beb175ef0d3430260b686c5d2" title="Dumps the given ModelState to the given file path." alt="" coords="648,71,849,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="600,88,633,88,633,94,600,94"/>
+<area shape="rect" id="Node000010" href="$class_nextsim_1_1_logged.html#a5f6a57e31f695910262eb85f566641ad" title="Logs a message at the given log level, or default to level::NOTICE." alt="" coords="446,266,587,292"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="369,276,430,276,430,282,369,282"/>
+</map>

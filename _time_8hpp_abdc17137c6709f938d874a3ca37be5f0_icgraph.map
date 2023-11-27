@@ -1,0 +1,13 @@
+<map id="Nextsim::mkgmtime" name="Nextsim::mkgmtime">
+<area shape="rect" id="Node000001" title="converts the std::tm struct to a std::time_t value assuming UTC." alt="" coords="590,42,727,68"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="692,30,681,23,658,21,638,23,627,28,625,33,631,40,626,43,620,34,624,24,637,18,659,16,682,18,694,25"/>
+<area shape="rect" id="Node000002" href="$_time_8hpp.html#a5c9685a4ce4b5a12ede57943648a0d42" title="Returns a std::time_t from a given ISO date string of a specific format." alt="" coords="389,42,542,68"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="575,58,543,58,543,52,575,52"/>
+<area shape="poly" id="edge5_Node000002_Node000002" title=" " alt="" coords="499,30,488,23,466,21,445,23,435,28,432,33,438,40,433,43,427,34,431,24,444,18,466,16,489,18,502,25"/>
+<area shape="rect" id="Node000003" href="$class_nextsim_1_1_time_point.html#ab09ff4d95bc55669e5cda9f10c30620e" title="Set this TimePoint by parsing the characters in an istream as an ISO 8601 date." alt="" coords="197,5,332,46"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="373,44,332,38,332,33,374,39"/>
+<area shape="rect" id="Node000005" href="$_time_8hpp.html#ae5f06b56e5d60ade63ef6dea5dc88647" title="Returns a std::time_t from a given ISO date string of a specific format." alt="" coords="188,70,341,96"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="374,70,342,75,341,70,373,65"/>
+<area shape="rect" id="Node000004" href="$class_nextsim_1_1_time_point.html#a67a213f778445548e7d3452f4cbde510" title="Set this TimePoint by parsing a string as an ISO 8601 date." alt="" coords="5,5,140,46"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="182,28,140,28,140,23,182,23"/>
+</map>

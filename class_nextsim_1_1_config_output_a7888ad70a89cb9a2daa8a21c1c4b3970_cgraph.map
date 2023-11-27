@@ -1,0 +1,9 @@
+<map id="Nextsim::ConfigOutput::outputState" name="Nextsim::ConfigOutput::outputState">
+<area shape="rect" id="Node000001" title="Outputs the passed ModelState." alt="" coords="5,71,156,111"/>
+<area shape="rect" id="Node000002" href="$class_nextsim_1_1_time_point.html#af5f383aa1035b8d301d61c27b8967d49" title="Print this TimePoint as a formatted date to an ostream." alt="" coords="219,5,353,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,68,204,49,206,54,147,73"/>
+<area shape="rect" id="Node000003" href="$class_nextsim_1_1_duration.html#ac051d9b4ba6d7b46f1c9f8e1a363fa24" title="Return the length of this Duration in seconds." alt="" coords="221,71,351,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,88,206,88,206,94,156,94"/>
+<area shape="rect" id="Node000004" href="$class_nextsim_1_1_model_metadata.html#a7cfa791d7cb1bf890e5960fc8767935b" title="Returns the current model time." alt="" coords="204,136,368,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="147,109,206,128,204,133,146,114"/>
+</map>

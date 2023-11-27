@@ -1,0 +1,14 @@
+<map id="Nextsim::TimePoint::parse" name="Nextsim::TimePoint::parse">
+<area shape="rect" id="Node000001" title="Set this TimePoint by parsing a string as an ISO 8601 date." alt="" coords="5,29,140,70"/>
+<area shape="rect" id="Node000002" href="$class_nextsim_1_1_time_point.html#ab09ff4d95bc55669e5cda9f10c30620e" title="Set this TimePoint by parsing the characters in an istream as an ISO 8601 date." alt="" coords="188,29,322,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,47,172,47,172,52,140,52"/>
+<area shape="rect" id="Node000003" href="$_time_8hpp.html#a5c9685a4ce4b5a12ede57943648a0d42" title="Returns a std::time_t from a given ISO date string of a specific format." alt="" coords="370,37,523,63"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="322,47,355,47,355,52,322,52"/>
+<area shape="poly" id="edge7_Node000003_Node000003" title=" " alt="" coords="414,38,408,28,412,18,425,12,447,10,470,13,482,20,480,24,469,18,447,15,427,17,416,22,413,28,419,35"/>
+<area shape="rect" id="Node000004" href="$_time_8hpp.html#abdc17137c6709f938d874a3ca37be5f0" title="converts the std::tm struct to a std::time_t value assuming UTC." alt="" coords="571,37,708,63"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="524,47,555,47,555,52,524,52"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="607,38,601,28,605,18,618,12,640,10,663,13,675,20,673,24,662,18,639,15,619,17,608,22,606,28,612,35"/>
+<area shape="rect" id="Node000005" href="$_time_8hpp.html#a8e8b93d7cf45b8c2c7562e127f3c2da7" title="Returns the number of days between the Julian and Gregorian years." alt="" coords="756,29,917,70"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="708,47,740,47,740,52,708,52"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="799,29,797,19,803,10,816,5,836,3,858,5,871,11,868,16,856,10,836,8,818,10,807,15,802,20,804,28"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Nextsim::MiniModelComponent" name="Nextsim::MiniModelComponent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="71,204,263,349"/>
+<area shape="rect" id="Node000002" href="$struct_text_tag.html" title=" " alt="" coords="5,5,143,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,109,132,187,127,189,94,112"/>
+<area shape="rect" id="Node000003" href="$class_nextsim_1_1_model_array_reference_store.html" title=" " alt="" coords="167,8,357,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="243,109,208,189,203,187,238,107"/>
+</map>

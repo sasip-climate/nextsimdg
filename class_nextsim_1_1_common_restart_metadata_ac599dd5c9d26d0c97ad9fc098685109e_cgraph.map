@@ -1,0 +1,13 @@
+<map id="Nextsim::CommonRestartMetadata::writeRestartMetadata" name="Nextsim::CommonRestartMetadata::writeRestartMetadata">
+<area shape="rect" id="Node000001" title="Writes the standard restart file metadata to a metadata node." alt="" coords="5,136,229,177"/>
+<area shape="rect" id="Node000002" href="$class_nextsim_1_1_time_point.html#af5f383aa1035b8d301d61c27b8967d49" title="Print this TimePoint as a formatted date to an ostream." alt="" coords="292,5,426,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,133,206,96,275,57,289,50,291,55,278,61,209,100,150,138"/>
+<area shape="rect" id="Node000003" href="$class_nextsim_1_1_duration.html#ac051d9b4ba6d7b46f1c9f8e1a363fa24" title="Return the length of this Duration in seconds." alt="" coords="294,71,424,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,133,278,110,280,115,195,138"/>
+<area shape="rect" id="Node000004" href="$class_nextsim_1_1_model_metadata.html#a4a4ae2da98030a0aad813f8d2c877dc5" title="Returns the string description of the model grid structure." alt="" coords="277,136,441,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="229,154,261,154,261,159,229,159"/>
+<area shape="rect" id="Node000005" href="$class_nextsim_1_1_model_metadata.html#a7cfa791d7cb1bf890e5960fc8767935b" title="Returns the current model time." alt="" coords="277,201,441,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="195,175,267,194,265,199,194,180"/>
+<area shape="rect" id="Node000006" href="$class_nextsim_1_1_i_structure.html#a2cbb7379198e83e5e50d125b4a366a39" title="The name of the node holding the name of the structure type processed by this class." alt="" coords="293,267,425,307"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="150,175,209,212,278,251,291,258,289,262,275,256,206,217,148,179"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="Nextsim::ModelArray::size" name="Nextsim::ModelArray::size">
+<area shape="rect" id="Node000001" title="Returns the total number of elements of this type of ModelArray." alt="" coords="846,136,986,177"/>
+<area shape="poly" id="edge15_Node000001_Node000001" title=" " alt="" coords="946,123,935,117,916,115,898,117,887,121,883,127,885,135,880,136,878,126,884,117,897,111,916,109,936,112,949,118"/>
+<area shape="rect" id="Node000002" href="$class_nextsim_1_1_model_component.html#a3a07628a05e282d56c594929953983f6" title=" " alt="" coords="433,5,609,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="836,133,584,49,586,44,838,128"/>
+<area shape="rect" id="Node000003" href="$class_nextsim_1_1_model_array.html#aa285badb50b17130ee59a88e3b55b432" title="Conditionally updates the size of the object data buffer to match the class specification." alt="" coords="657,136,798,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="830,159,798,159,798,154,830,154"/>
+<area shape="rect" id="Node000013" href="$class_nextsim_1_1_model_component.html#ae2333c88ff50bd368d707e0bc3f7bd36" title="Sets the model&#45;wide land&#45;ocean mask (for HField arrays)." alt="" coords="433,267,609,307"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="838,185,586,269,584,264,836,180"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="693,127,654,93,608,61,583,49,586,44,611,57,657,89,696,123"/>
+<area shape="rect" id="Node000004" href="$class_nextsim_1_1_model_array.html#aa7b26c6e4ce8f977271f693047afb6d6" title="Reads and sets data from a raw buffer of double data." alt="" coords="451,71,591,111"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="646,133,587,115,589,109,647,128"/>
+<area shape="rect" id="Node000005" href="$class_nextsim_1_1_model_array.html#a9938424dba42a72b520a14f5ee16c2bd" title="Sets the value of every element in the object to the provided value." alt="" coords="451,136,591,177"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="642,159,592,159,592,154,642,154"/>
+<area shape="rect" id="Node000012" href="$class_nextsim_1_1_model_array.html#a9e5e7c2c19d79267ab8d39d8a22dff68" title="Sets the number and size of the dimensions of this type of ModelArray." alt="" coords="451,201,591,242"/>
+<area shape="poly" id="edge12_Node000003_Node000012" title=" " alt="" coords="647,184,589,203,587,198,646,179"/>
+<area shape="poly" id="edge13_Node000003_Node000013" title=" " alt="" coords="696,190,657,224,611,256,586,269,583,264,608,251,654,219,693,186"/>
+<area shape="rect" id="Node000006" href="$class_nextsim_1_1_model_array.html#a9e7bfe90029cb9f7512278811bcb9330" title="Copy constructor." alt="" coords="233,5,373,46"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="439,130,431,125,415,109,407,92,398,77,383,61,364,49,367,44,387,57,403,74,411,90,420,105,435,121,442,126"/>
+<area shape="rect" id="Node000007" href="$class_nextsim_1_1_model_array.html#a6e8069478ff4e7c3d4c0ca927c971982" title="Assigns a double value to all elements of the object." alt="" coords="233,71,373,111"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="436,134,373,115,374,109,438,129"/>
+<area shape="rect" id="Node000008" href="$class_nextsim_1_1_model_array.html#a76b68ea3ae6967acca47db1b6b7d4f1e" title="Copy assignment operator." alt="" coords="233,136,373,177"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="435,159,373,159,373,154,435,154"/>
+<area shape="rect" id="Node000009" href="$class_nextsim_1_1_model_array.html#a4e7e1934eb14691d89a10d231118df68" title="Reads and sets data from another ModelArray." alt="" coords="233,201,373,242"/>
+<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="438,184,374,203,373,198,436,179"/>
+<area shape="rect" id="Node000010" href="$class_nextsim_1_1_prognostic_data.html#a29240eef9e5ec326a0411af5df167280" title="Updates the state of the prognostic data for this timestep." alt="" coords="221,267,385,307"/>
+<area shape="poly" id="edge10_Node000005_Node000010" title=" " alt="" coords="442,187,435,192,420,207,411,223,403,239,387,256,367,268,364,264,383,252,398,236,407,220,415,204,431,188,439,182"/>
+<area shape="rect" id="Node000011" href="$class_nextsim_1_1_dev_step.html#ae9d750b04c7807c54737e2766b7887ee" title=" " alt="" coords="5,274,173,300"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="205,290,173,290,173,284,205,284"/>
+</map>

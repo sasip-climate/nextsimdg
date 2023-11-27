@@ -1,0 +1,5 @@
+<map id="Nextsim::ModelComponent" name="Nextsim::ModelComponent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="15,1674,183,2159"/>
+<area shape="rect" id="Node000002" href="$class_nextsim_1_1_model_array.html" title="A class that holds the array data for the model." alt="" coords="5,5,193,1611"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,1610,102,1657,97,1657,97,1610"/>
+</map>

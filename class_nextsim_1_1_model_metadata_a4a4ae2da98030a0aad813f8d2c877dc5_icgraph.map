@@ -1,0 +1,16 @@
+<map id="Nextsim::ModelMetadata::structureName" name="Nextsim::ModelMetadata::structureName">
+<area shape="rect" id="Node000001" title="Returns the string description of the model grid structure." alt="" coords="470,72,634,113"/>
+<area shape="rect" id="Node000002" href="$class_nextsim_1_1_common_restart_metadata.html#ac599dd5c9d26d0c97ad9fc098685109e" title="Writes the standard restart file metadata to a metadata node." alt="" coords="199,39,422,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="454,82,422,77,423,72,455,76"/>
+<area shape="rect" id="Node000006" href="$class_nextsim_1_1_common_restart_metadata.html#acac23d06535d853768b15d4d7f46b393" title="Writes the structure type to the root of the restart file for future retrieval." alt="" coords="199,104,422,145"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="455,108,423,112,422,107,454,103"/>
+<area shape="rect" id="Node000003" href="$class_nextsim_1_1_para_grid_i_o.html#a8b3f2df590b4c723c3136a8769d0c202" title="Writes the ModelState to a given file location from the provided model data and metadata." alt="" coords="8,5,148,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="183,43,148,38,149,33,183,38"/>
+<area shape="rect" id="Node000004" href="$class_nextsim_1_1_rect_grid_i_o.html#ae9ee77d5df22cd49163ecbb1fcf8130a" title="Dumps the given ModelState to the given file path." alt="" coords="8,71,148,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="183,79,149,84,148,79,183,74"/>
+<area shape="rect" id="Node000005" href="$class_nextsim_1_1_para_grid_i_o.html#a121b163c19e4db4870334d44ce7f9c94" title="Writes diagnostic data to a file." alt="" coords="5,136,151,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="217,87,200,95,176,109,152,125,127,138,125,133,149,121,173,105,197,90,215,83"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="214,101,197,93,173,78,149,61,125,49,128,44,152,57,176,73,200,89,216,96"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="183,109,148,104,149,98,183,103"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="184,145,151,149,151,144,183,139"/>
+</map>
